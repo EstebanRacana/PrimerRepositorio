@@ -1,4 +1,9 @@
+Ticket2
 Archivo2.txt
 TAREAS1B
 TAREAS1B
 TAREAS1B
+=======
+Ticket2 Archivo2 Ticket2
+ 
+>>>>>>> soporte
