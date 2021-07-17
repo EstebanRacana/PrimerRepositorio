@@ -1,10 +1,11 @@
+tAREA 2X
 Primera linea
 
 
 Otra linea
-
+tAREA 2X
 Tercer linea
-
+tAREA 2X
 Cuarta linea 
-
+tAREA 2X
 Quinta linea 
