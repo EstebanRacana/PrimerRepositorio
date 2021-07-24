@@ -1,3 +1,7 @@
 Archivo2.txt
 
 agregado base de remoto
+
+Agregado rama rebase
+
+Agregado rama rebase2
