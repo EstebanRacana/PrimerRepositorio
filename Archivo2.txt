@@ -1,7 +1,18 @@
+Ticket2
 Archivo2.txt
+HEAD
 
 agregado base de remoto
 
 Agregado rama rebase
 
 Agregado rama rebase2
+=======
+TAREAS1B
+TAREAS1B
+TAREAS1B
+=======
+Ticket2 Archivo2 Ticket2
+ 
+ soporte
+ ticket_3456

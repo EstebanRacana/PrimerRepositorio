@@ -5,6 +5,7 @@ Primera linea
 Otra linea
 tAREA 2X
 Tercer linea
+<<<<<<< HEAD
 tAREA 2X
 agregado coso
 Cuarta linea 
@@ -16,3 +17,23 @@ adkasdkaskd
  
 
 cambio rama original
+=======
+Tareas 1A
+
+Cuarta linea 
+asdasdasd
+Tareas 1A
+Quinta linea 
+=======
+
+Quinta linea 
+
+
+Ticket1
+Ticket1
+Ticket1
+Ticket1
+>>>>>>> soporte
+
+Correcion ticket 3456
+>>>>>>> ticket_3456
